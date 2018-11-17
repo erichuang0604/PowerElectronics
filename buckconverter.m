@@ -2,6 +2,7 @@
 %Date: 2018/11/17
 %Contact: erichuang0604@gmail.com
 %Project Name: Static characteristics of a buck converter.
+%idea from:https://www.youtube.com/watch?v=ojlw4o8TiAM
 
 clear all;
 model = 'BuckConverter2';
